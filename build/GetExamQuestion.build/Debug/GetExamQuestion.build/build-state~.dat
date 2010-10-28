@@ -1,0 +1,187 @@
+TGetExamQuestion
+v7
+r0
+t309943260.889770
+cCheck dependencies
+cProcessInfoPlistFile /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/GetExamQuestion.app/Contents/Resources/rb_main.rb rb_main.rb
+cCompileXIB /Users/seb/Desktop/GetExamQuestion/English.lproj/MainMenu.xib
+cCpResource build/Debug/GetExamQuestion.app/Contents/Resources/DownloadController.rb DownloadController.rb
+cCompileC build/GetExamQuestion.build/Debug/GetExamQuestion.build/Objects-normal/x86_64/main.o /Users/seb/Desktop/GetExamQuestion/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/MacOS/GetExamQuestion normal x86_64
+cTouch /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C445C5F00000000000000EE
+t1279548511
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004CAA3D98000000000000005F
+t1286225304
+s95
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004CAA404F000000000168BA88
+t1286225999
+s23640712
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/seb/Desktop/GetExamQuestion/DownloadController.rb
+c000000004CC924030000000000000115
+t1288250371
+s277
+
+N/Users/seb/Desktop/GetExamQuestion/English.lproj/InfoPlist.strings
+c000000004CC923C800000000000000B4
+t1288250312
+s180
+
+N/Users/seb/Desktop/GetExamQuestion/English.lproj/MainMenu.xib
+c000000004CC92454000000000001FE75
+t1288250452
+s130677
+
+N/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app
+t1288250460
+s102
+
+N/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Info.plist
+t1288250459
+s793
+
+N/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/MacOS/GetExamQuestion
+t1288250460
+s9064
+
+N/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/PkgInfo
+t1288250459
+s8
+
+N/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources/DownloadController.rb
+t1288250459
+s277
+
+N/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1288250459
+s180
+
+N/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources/English.lproj/MainMenu.nib
+t1288250459
+s22086
+
+N/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources/rb_main.rb
+t1288250459
+s624
+
+N/Users/seb/Desktop/GetExamQuestion/build/GetExamQuestion.build/Debug/GetExamQuestion.build/Objects-normal/x86_64/GetExamQuestion.LinkFileList
+c000000004CC9245B0000000000000078
+t1288250459
+s120
+
+N/Users/seb/Desktop/GetExamQuestion/build/GetExamQuestion.build/Debug/GetExamQuestion.build/Objects-normal/x86_64/main.o
+t1288250460
+s5348
+
+N/Users/seb/Desktop/GetExamQuestion/main.m
+c000000004CC923C80000000000000100
+t1288250312
+s256
+i<MacRuby/MacRuby.h>
+
+N/Users/seb/Desktop/GetExamQuestion/rb_main.rb
+c000000004CC923C80000000000000270
+t1288250312
+s624
+
+NInfo.plist
+c000000004CC923C8000000000000034C
+t1288250312
+s844
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies309943259#309943259#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/GetExamQuestion.build/Debug/GetExamQuestion.build/Objects-normal/x86_64/main.o /Users/seb/Desktop/GetExamQuestion/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s309943259.942046
+e309943260.712263
+r1
+xCompileC
+xbuild/GetExamQuestion.build/Debug/GetExamQuestion.build/Objects-normal/x86_64/main.o
+x/Users/seb/Desktop/GetExamQuestion/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/seb/Desktop/GetExamQuestion/main.m309943259#309943260#0(0"0(0#0#41"/Users/seb/Desktop/GetExamQuestion/main.m8386658438684291072#1009"    cd /Users/seb/Desktop/GetExamQuestion    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/seb/Desktop/GetExamQuestion/build/GetExamQuestion.build/Debug/GetExamQuestion.build/GetExamQuestion.hmap -F/Users/seb/Desktop/GetExamQuestion/build/Debug -F/Users/seb/Desktop/GetExamQuestion/build/Debug -I/Users/seb/Desktop/GetExamQuestion/build/Debug/include -I/Users/seb/Desktop/GetExamQuestion/build/GetExamQuestion.build/Debug/GetExamQuestion.build/DerivedSources/x86_64 -I/Users/seb/Desktop/GetExamQuestion/build/GetExamQuestion.build/Debug/GetExamQuestion.build/DerivedSources -c /Users/seb/Desktop/GetExamQuestion/main.m -o /Users/seb/Desktop/GetExamQuestion/build/GetExamQuestion.build/Debug/GetExamQuestion.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/seb/Desktop/GetExamQuestion/English.lproj/MainMenu.xib
+s309943259.546822
+e309943259.941941
+r1
+xCompileXIB
+x/Users/seb/Desktop/GetExamQuestion/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/seb/Desktop/GetExamQuestion/English.lproj/MainMenu.xib:383: warning: Image scaling is not supported on Mac OS X versions prior to 10.5.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib309943259#309943259#0(184"/* com.apple.ibtool.document.warnings *//Users/seb/Desktop/GetExamQuestion/English.lproj/MainMenu.xib:383: warning: Image scaling is not supported on Mac OS X versions prior to 10.5.1(22@66"Image scaling is not supported on Mac OS X versions prior to 10.5.309943259#18446744073709551615#0#0(6@61"/Users/seb/Desktop/GetExamQuestion/English.lproj/MainMenu.xib309943252#383#0#383#0#0"0(0#0#61"/Users/seb/Desktop/GetExamQuestion/English.lproj/MainMenu.xib8616929280#360"    cd /Users/seb/Desktop/GetExamQuestion    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources/English.lproj/MainMenu.nib /Users/seb/Desktop/GetExamQuestion/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s309943259.543686
+e309943259.635368
+r1
+xCopyStringsFile
+x/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings309943259#309943259#0(0"0(0#0#66"/Users/seb/Desktop/GetExamQuestion/English.lproj/InfoPlist.strings8617004768#366"    cd /Users/seb/Desktop/GetExamQuestion    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/GetExamQuestion.app/Contents/Resources/DownloadController.rb DownloadController.rb
+s309943259.635466
+e309943259.641757
+r1
+xCpResource
+xbuild/Debug/GetExamQuestion.app/Contents/Resources/DownloadController.rb
+xDownloadController.rb
+lSLF07#2@26"Copy DownloadController.rb309943259#309943259#0(0"0(0#0#56"/Users/seb/Desktop/GetExamQuestion/DownloadController.rb8616890144#333"    cd /Users/seb/Desktop/GetExamQuestion    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/seb/Desktop/GetExamQuestion/DownloadController.rb /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources0#
+
+CCpResource build/Debug/GetExamQuestion.app/Contents/Resources/rb_main.rb rb_main.rb
+s309943259.545044
+e309943259.554945
+r1
+xCpResource
+xbuild/Debug/GetExamQuestion.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb309943259#309943259#0(0"0(0#0#45"/Users/seb/Desktop/GetExamQuestion/rb_main.rb8616917248#322"    cd /Users/seb/Desktop/GetExamQuestion    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/seb/Desktop/GetExamQuestion/rb_main.rb /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Resources0#
+
+CLd /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/MacOS/GetExamQuestion normal x86_64
+s309943260.712372
+e309943260.883339
+r1
+xLd
+x/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/MacOS/GetExamQuestion
+xnormal
+xx86_64
+lSLF07#2@102"Link /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/MacOS/GetExamQuestion309943260#309943260#0(0"0(0#0#0"8607911520#630"    cd /Users/seb/Desktop/GetExamQuestion    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/seb/Desktop/GetExamQuestion/build/Debug -F/Users/seb/Desktop/GetExamQuestion/build/Debug -F/Users/seb/Desktop/GetExamQuestion/build/Debug -filelist /Users/seb/Desktop/GetExamQuestion/build/GetExamQuestion.build/Debug/GetExamQuestion.build/Objects-normal/x86_64/GetExamQuestion.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework MacRuby -o /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/MacOS/GetExamQuestion0#
+
+CProcessInfoPlistFile /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Info.plist Info.plist
+s309943259.532159
+e309943259.543576
+r1
+xProcessInfoPlistFile
+x/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist309943259#309943259#0(0"0(0#0#45"/Users/seb/Desktop/GetExamQuestion/Info.plist22799941271355512#306"    cd /Users/seb/Desktop/GetExamQuestion    builtin-infoPlistUtility Info.plist -genpkginfo /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app/Contents/Info.plist0#
+
+CTouch /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app
+s309943260.883440
+e309943260.889707
+r1
+xTouch
+x/Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app
+lSLF07#2@72"Touch /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app309943260#309943260#0(0"0(0#0#0"8617380224#131"    cd /Users/seb/Desktop/GetExamQuestion    /usr/bin/touch -c /Users/seb/Desktop/GetExamQuestion/build/Debug/GetExamQuestion.app0#
+
